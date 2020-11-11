@@ -1,0 +1,90 @@
+h1 {
+    font-size: 40px;
+    font-weight: normal;
+    color: pink;
+    text-transform: uppercase;
+    letter-spacing: 50px;
+}
+.div1 {
+    font-weight: 50px;
+    height: 200px;
+    background-color: sandybrown;
+}
+.div12 {
+    background-color: slategray;
+}
+.div2 {
+    width: 50%;
+    background-color: steelblue;
+    height: 200px;
+    padding: 20px;
+    border: solid 5px;
+    overflow: scroll;
+}
+.div21 {
+    background-color: violet;
+    box-sizing: border-box;
+}
+.pirmas {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.pirmas span {
+    font-family: 'Goldman', cursive;
+}
+.antras {
+    font-size: 24px;
+}
+.antras span {
+    color: seagreen;
+}
+.trecias {
+    width: 40%;
+}
+.trecias span {
+    display: block;
+}
+.ketvirtas {
+    border: solid, 4px;
+    font-size: 30px;
+}
+.ketvirtas span {
+    font-size: 20px;
+}
+.penktas {
+    font-style: italic;
+}
+.penktas span {
+    font-weight: bold;
+}
+.sestas {
+    text-decoration: underline;
+}
+.sestas span {
+    text-decoration: overline:
+}
+.septintas {
+    line-height: 26px;
+}
+.septintas span {
+    text-transform: uppercase;
+}
+.astuntas {
+    text-indent: 30px;
+}
+.astuntas span {
+    background-color: yellow;
+}
+.devintas {
+    background-color: tomato;
+}
+.devintas span {
+    background-color: white;
+}
+.desimtas {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: tomato;
+    font-size: 30px;
+}
+.desimtas span {
+    text-decoration: underline;
+}
